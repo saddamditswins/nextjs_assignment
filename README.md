@@ -52,3 +52,6 @@ This is a Next.js API for managing movies, including user registration, login, a
 
 Email : johnsnow@yopmail.com
 Password : Johnsnow@123
+
+## Live Preview URL
+Live URL hosted on AWS  - http://52.90.18.248:3000
